@@ -1,5 +1,5 @@
 Config = {
-    devMode = false, -- Enable/Disable Dev Mode (False on live)
+    devMode = true, -- Enable/Disable Dev Mode (False on live)
     defaultlang = "en_lang", -- Choose the language file to use
     createSocietyCommandName = "createSociety", -- Command to create a society
     useWebhooks = false,
